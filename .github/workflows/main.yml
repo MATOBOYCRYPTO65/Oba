@@ -1,0 +1,38 @@
+import { WarehouseClient } from '@0xsplits/splits-sdk'
+const warehouseClient = new WarehouseClient ( {
+Chain:1
+PublicClient:Ethereum
+WalletClient:0xB5c1baF2E532Bb749a6b2034860178A3558b6e58
+IncludEnsName:true
+EnsPublicClinet:Obasimartins65.eth
+apiconfig: {
+api key: string 13fa508ea913c8c045a462ac
+},
+})
+const args = {
+userAddress:0xB5c1baF2E532Bb749a6b2034860178A3558b6e58
+}
+const response = await warehouseClient.getWithdrawConfig (args)
+{
+Useraddress:0xB5c1baF2E532Bb749a6b2034860178A3558b6e58
+ }
+{
+Incentive:number 
+Pause:Boolean 
+}
+const args = {
+userAddress: 0xB5c1baF2E532Bb749a6b2034860178A3558b6e58
+userNonce: 0,
+}
+const response = await warehouseClient.isValidNonce(args)
+{
+userNonce: bigint 
+userAddress: Address 0xB5c1baF2E532Bb749a6b2034860178A3558b6e58
+}
+{
+isValidNonce: boolean
+}
+const response = await warehouseClient.eip712Domain ()
+{
+chainId: number name: string salt: Hex verifyingContract: Address version: string
+}
