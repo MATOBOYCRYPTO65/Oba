@@ -1,4 +1,6 @@
-Verified arbitrumDAO and Researcherhttps://snapshot.org/#/profile/0xB5c1baF2E532Bb749a6b2034860178A3558b6e58https://paragraph.com/@0xB5c1baF2E532Bb749a6b2034860178A3558b6e58 Since code becomes law maintaining transparency is the key for organizations/individuals to work.
+Verified arbitrumDAO and Researcher
+https://snapshot.org/#/profile/0xB5c1baF2E532Bb749a6b2034860178A3558b6e58
+https://paragraph.com/@0xB5c1baF2E532Bb749a6b2034860178A3558b6e58 Since code becomes law maintaining transparency is the key for organizations/individuals to work.
 project verified and built on 6 months Arbitrum DAO Grant Program supports builders with milestones-based funding for growth.
 All grants issued through this program will serve to improve the adoption of Arbitrum chains, create stronger technical structures. 
 I vote/advocate for proposals that Strengthen Ethereum’s base-layer. 
